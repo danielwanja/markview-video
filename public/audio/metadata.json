@@ -1,0 +1,60 @@
+{
+  "voice": "s3TPKV1kjDlVtZbl4Ksh",
+  "generatedAt": "2025-12-11T08:37:33.101Z",
+  "sections": [
+    {
+      "name": "title",
+      "file": "title.mp3",
+      "startFrame": 0,
+      "durationFrames": 450
+    },
+    {
+      "name": "stats",
+      "file": "stats.mp3",
+      "startFrame": 450,
+      "durationFrames": 450
+    },
+    {
+      "name": "firstPrompt",
+      "file": "firstPrompt.mp3",
+      "startFrame": 900,
+      "durationFrames": 1350
+    },
+    {
+      "name": "iteration",
+      "file": "iteration.mp3",
+      "startFrame": 2250,
+      "durationFrames": 1800
+    },
+    {
+      "name": "difficulties",
+      "file": "difficulties.mp3",
+      "startFrame": 4050,
+      "durationFrames": 1350
+    },
+    {
+      "name": "features",
+      "file": "features.mp3",
+      "startFrame": 5400,
+      "durationFrames": 1800
+    },
+    {
+      "name": "publish",
+      "file": "publish.mp3",
+      "startFrame": 7200,
+      "durationFrames": 900
+    },
+    {
+      "name": "lessons",
+      "file": "lessons.mp3",
+      "startFrame": 8100,
+      "durationFrames": 750
+    },
+    {
+      "name": "outro",
+      "file": "outro.mp3",
+      "startFrame": 8850,
+      "durationFrames": 150
+    }
+  ]
+}
